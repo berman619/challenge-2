@@ -22,13 +22,6 @@
 * WHEN I resize the page or view the site on various screens and devices
 * THEN I am presented with a responsive layout that adapts to my viewport
 
-## To Do
+## Project Description
 
-* Use flexbox, media queries, and CSS variables
-* A recent photo or avatar
-* Nav links scrolls to the corresponding section 
-* Link to section about my work scrolls to section with titled images of my applications
-* First application's image should be larger in size than the others
-* When clicking on the images of the applications, you are taken to the deployed application
-* Can use placeholder images and names for the applications for now 
-* Responsive layout that adapts when resizing the page or viewing on different devices 
+I created a professional portfolio website using HTML and CSS for the second weekly challenge in the Columbia Coding Boot Camp. This will be updated over time with deployed applications as they are created, but includes placeholders currently. I applied concepts we learned in the course including flexboxes, media queries, CSS variables, responsive design, and more. I referenced materials from the Columbia Coding Boot Camp, W3 Schools, MDN Web Docs, StackOverflow, and CodePen while completing this project.
