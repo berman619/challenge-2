@@ -175,6 +175,7 @@ justify-content: space-evenly;
     position: absolute;
     top: 10px;
     left: 10px;
+    color: white;
     background-color: rgba(52, 72, 151, 0.8);
     padding: 5px 10px;
   }
